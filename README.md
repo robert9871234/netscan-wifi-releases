@@ -1,3 +1,3 @@
-# Rodi Wireless Scanner - releases
+# RoDiKi Wireless Scanner - releases
 
-Hier staan alleen de downloads (apk) van Rodi Wireless Scanner. Kijk bij Releases voor de nieuwste versie.
+Hier staan alleen de downloads (apk) van RoDiKi Wireless Scanner. Kijk bij Releases voor de nieuwste versie.
